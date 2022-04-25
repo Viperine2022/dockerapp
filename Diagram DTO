@@ -1,41 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T10:11:29.526Z" agent="5.0 (Windows)" etag="kiExgEtkcYwF0zQw8uP3" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-25T10:20:21.955Z" agent="5.0 (Windows)" etag="fVSnACP1inX4IAosnMBy" version="17.4.1" type="github">
   <diagram id="_4SI7nRZg3FB5lgQXSw9" name="Page-1">
-    <mxGraphModel dx="2557" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2903" dy="2241" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="tWPnx-IeQftkFAWASqnl-3" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="220" width="1360" height="720" as="geometry" />
-        </mxCell>
-        <mxCell id="5XHcPN61bLyA1XMhqBb_-2" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="150" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="5XHcPN61bLyA1XMhqBb_-6" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;exitX=0.306;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="5XHcPN61bLyA1XMhqBb_-2" edge="1" source="tWPnx-IeQftkFAWASqnl-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="240" as="sourcePoint" />
-            <mxPoint x="470" y="280" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="-300" y="140" width="1360" height="800" as="geometry" />
         </mxCell>
         <mxCell id="5XHcPN61bLyA1XMhqBb_-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;SQL&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="110" y="780" width="111.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="5XHcPN61bLyA1XMhqBb_-11" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="150" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="5XHcPN61bLyA1XMhqBb_-12" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;exitX=0.7;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="5XHcPN61bLyA1XMhqBb_-11" edge="1" source="tWPnx-IeQftkFAWASqnl-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="240" as="sourcePoint" />
-            <mxPoint x="600" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5XHcPN61bLyA1XMhqBb_-15" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;REST API eCSM&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="328.5" y="130" width="170" height="20" as="geometry" />
+        <mxCell id="5XHcPN61bLyA1XMhqBb_-15" value="&lt;font style=&quot;font-size: 29px&quot;&gt;&lt;font style=&quot;font-size: 29px&quot;&gt;&lt;u&gt;&lt;b&gt;&lt;font style=&quot;font-size: 29px&quot;&gt;eCSM back-end Diagram&lt;/font&gt;&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="234" y="-20" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tWPnx-IeQftkFAWASqnl-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;REST CONTROLLER&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="249" y="260" width="330" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="tWPnx-IeQftkFAWASqnl-7" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px&quot;&gt;DTO&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;JSON request&lt;/span&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="180" width="110" height="30" as="geometry" />
+        <mxCell id="tWPnx-IeQftkFAWASqnl-7" value="IHM Get request" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="90" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tWPnx-IeQftkFAWASqnl-9" value="&lt;font style=&quot;font-size: 18px&quot;&gt;SERVICES&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="248.5" y="430" width="330" height="70" as="geometry" />
@@ -101,7 +83,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tWPnx-IeQftkFAWASqnl-34" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;getSpectrums&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;i&gt;JSON response&lt;br&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="500" y="340" width="120" height="50" as="geometry" />
+          <mxGeometry x="500" y="350" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tWPnx-IeQftkFAWASqnl-41" value="&lt;p&gt;&lt;font style=&quot;font-size: 14px&quot; color=&quot;#0000FF&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px&quot; color=&quot;#0000FF&quot;&gt;&amp;nbsp; {&lt;br&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp; &quot;timestamp&quot; : &quot;2016-05-21 14:00:00;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&amp;nbsp; }&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 14px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px&quot; color=&quot;#0000FF&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=17;strokeColor=#36393d;strokeWidth=2;position2=1;base=60;size=30;position=0.48;fillColor=#cce5ff;align=left;" vertex="1" parent="1">
           <mxGeometry x="-270" y="270" width="250" height="110" as="geometry" />
@@ -117,6 +99,27 @@
         </mxCell>
         <mxCell id="tWPnx-IeQftkFAWASqnl-49" value="&lt;br&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px&quot; color=&quot;#0000FF&quot;&gt;&amp;nbsp; List&amp;lt;MeasureSpectrum&amp;gt; listSpectrum;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px&quot; color=&quot;#0000FF&quot;&gt;&amp;nbsp; List&amp;lt;MeasureSignal&amp;gt; listMeasure;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;br&gt;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Helvetica;fontColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="650" y="662.5" width="260" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="tWPnx-IeQftkFAWASqnl-54" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=#FF0000;strokeWidth=3;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="tWPnx-IeQftkFAWASqnl-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="332" y="120" as="sourcePoint" />
+            <mxPoint x="460" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tWPnx-IeQftkFAWASqnl-55" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=#FF0000;strokeWidth=3;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="498.32" y="120" as="sourcePoint" />
+            <mxPoint x="497.82" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tWPnx-IeQftkFAWASqnl-61" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;/api/getSpectrums&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;i&gt;&lt;b&gt;HTTP GET&lt;/b&gt;&lt;/i&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="175" y="180" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tWPnx-IeQftkFAWASqnl-62" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;/api/putSpectrums&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;i&gt;&lt;b&gt;HTTP POST&lt;/b&gt;&lt;/i&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="495" y="180" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tWPnx-IeQftkFAWASqnl-63" value="IHM Get request" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="90" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
